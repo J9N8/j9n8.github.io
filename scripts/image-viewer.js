@@ -1,0 +1,1 @@
+const installImageView=(e,a)=>{$("#imageViewerCaption").html(a),$("#imageViewerImage").attr("src",e),$("#imageViewer").modal("show")};
